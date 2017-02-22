@@ -60,7 +60,7 @@ Charge for:
 <br>
 Productize reactions
 <br>
-Productized information
+Productized sources of information
 
 
 
