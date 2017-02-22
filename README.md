@@ -46,4 +46,21 @@ We should look to replicate and scale research creation / distribution / payment
 4. Acquire customers for product
 <br>
 5. Target adjacencies to productize and expand
+<br><br>
+<b>MVP:</b>
+<br><br>
+Display Sources of Information - Real time
+<br>
+Reactions to Information - Real-time
+<br><br>
+
+<b>Business Model:</b>
+<br>
+Charge for:
+<br>
+Productize reactions
+Productized information
+
+
+
 
